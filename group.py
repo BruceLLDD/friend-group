@@ -2,4 +2,18 @@
 
 # Your code to go here...
 
-my_group =
+# 
+namel = []
+agel = job[]
+jobl = []
+relationshipl= []
+person_dict = {}
+
+def person_box(namel,agel,jobl,relationshipl,name,age,job,relationship):
+    namel.append(name)
+    aggel.append(age)
+    jobl.append(job)
+    relationshipl.append(relationship)
+
+
+
